@@ -1,1 +1,10 @@
+<<<<<<< HEAD
+# Parquet trade data — wir pushen nur trades_*, NICHT depth_* (zu groß) oder snapshots_* (nicht relevant)
+data/depth_*
+data/snapshots_*
+__pycache__/
+*.pyc
+*.log
+=======
 PropHedge/
+>>>>>>> b9d4f61cb310e934d90d7fe37607b6e41f06a74e
