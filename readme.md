@@ -123,5 +123,4 @@ The idea is inspired by the [Prop Arbitrage Simulator](https://proparbitragesimu
 
 ## License
 
-- **Code:** MIT License, see [LICENSE](LICENSE)
 - **Paper:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
