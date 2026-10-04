@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Parquet trade data — wir pushen nur trades_*, NICHT depth_* (zu groß) oder snapshots_* (nicht relevant)
+
 data/depth_*
 data/snapshots_*
 __pycache__/
