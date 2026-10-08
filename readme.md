@@ -110,17 +110,5 @@ This project is a purely analytical study. It does not constitute investment, fi
 
 The idea is inspired by the [Prop Arbitrage Simulator](https://proparbitragesimulator.atjresearch.com/) by ATJ Research.
 
-## Citation
 
-```bibtex
-@misc{ruether2026prophedge,
-  author = {R{\"u}ther, Lennart},
-  title  = {PropHedge: Hedging Prop Firm Challenges with Static Drawdown -- Hedge Ratios, Path-Dependent PnL and Expected Value},
-  year   = {2026},
-  note   = {Working Paper, Version 1.0, SSRN}
-}
 ```
-
-## License
-
-- **Paper:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
