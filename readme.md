@@ -109,6 +109,3 @@ This project is a purely analytical study. It does not constitute investment, fi
 ## Acknowledgements
 
 The idea is inspired by the [Prop Arbitrage Simulator](https://proparbitragesimulator.atjresearch.com/) by ATJ Research.
-
-
-```
